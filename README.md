@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/109892514/221279335-7c1ff752-4a4b-415c-a57c-669334af1757.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/109892514/221281220-f572d46c-4d59-4972-a7aa-a7d9a744e7dc.png)
+
 # 💫 About Me:
 🌱 I’m currently learning JavaScript, IoT<br>💬 Ask me about HTML, CSS, JavaScript, Java, MySql<br>⚡ Fun fact - I am lazy but smart
 

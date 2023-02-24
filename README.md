@@ -1,4 +1,4 @@
-![](https://github.com/yashbhatia10/yashbhatia10/blob/main/github-header-image.png)
+![banner](https://user-images.githubusercontent.com/109892514/221279335-7c1ff752-4a4b-415c-a57c-669334af1757.png)
 # 💫 About Me:
 🌱 I’m currently learning JavaScript, IoT<br>💬 Ask me about HTML, CSS, JavaScript, Java, MySql<br>⚡ Fun fact - I am lazy but smart
 

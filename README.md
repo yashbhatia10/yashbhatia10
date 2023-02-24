@@ -1,3 +1,4 @@
+![](https://github.com/yashbhatia10/yashbhatia10/blob/main/github-header-image.png)
 # 💫 About Me:
 🌱 I’m currently learning JavaScript, IoT<br>💬 Ask me about HTML, CSS, JavaScript, Java, MySql<br>⚡ Fun fact - I am lazy but smart
 

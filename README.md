@@ -1,7 +1,7 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/76098066/221282499-83e4aa98-fa20-45d1-9008-913d2d363e33.svg)
 
 # 💫 About Me:
-🌱 I’m currently learning JavaScript, IoT<br>💬 Ask me about HTML, CSS, JavaScript, Java, MySql<br>⚡ Fun fact - I am lazy but smart
+🌱 I’m currently learning Machine Learning & Data Science <br>💬 Ask me about HTML, CSS, JavaScript, Java, MySql, MAchine Learning, Data Science, Data Analysis<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
